@@ -2,17 +2,14 @@
 
 Interactive Card Details Form Task from Chainwhiz Assessment Test
 
-## Live Demo
-
-
 
 ## Tools
 
 ReactJS, ChakraUI and Formik
 
-## Preview
+## Live Preview
 
-<!-- ![interactive-card-details](https://user-images.githubusercontent.com/96880670/196101944-269691fb-a289-449d-bfb2-7ab5fbc26259.gif) -->
+https://chainwhiz-test.vercel.app/
 
 # Getting Started with Create React App
 

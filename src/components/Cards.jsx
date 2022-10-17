@@ -49,7 +49,7 @@ function Cards() {
             <HStack w="100%" justifyContent="space-between">
               <Text fontSize={{ base: "xs", lg: "md" }}>
                 {formDetails.holderName.length === 0
-                  ? "Jane Appleseed"
+                  ? "Rajashree Parshi"
                   : formDetails.holderName}
               </Text>
               <Text fontSize={{ base: "xs", lg: "md" }}>

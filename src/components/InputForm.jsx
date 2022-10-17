@@ -92,7 +92,7 @@ function InputForm() {
                   id="holderName"
                   name="holderName"
                   variant="outline"
-                  placeholder="e.g. Jane Appleseed"
+                  placeholder="e.g. Rajashree Parshi"
                   fontSize="xl"
                   _focus={{ borderColor: "hsl(278, 94%, 30%)" }}
                   onChange={(e) => {
